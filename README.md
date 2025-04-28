@@ -1,2 +1,5 @@
-# noiseisbeautiful
-noise is beautiful 的中文翻译， https://github.com/stegu/noiseisbeautiful/issues/2 CC-BY-NC 4.0 licensed.
+# 噪声之美(noise is beautiful)
+
+作为练习时长一年半的图形学小学生，看到[noise is beautiful](https://github.com/stegu/noiseisbeautiful) 很是欣喜，花了一天时间看完了。 并产生了想要通过翻译学习的想法。
+
+在经过原作者的[许可](https://github.com/stegu/noiseisbeautiful/issues/2)之后, 开始进行翻译
