@@ -1,7 +1,5 @@
 # 噪声至美
 
-![image](https://github.com/user-attachments/assets/424fac9c-e77a-46be-81c1-7bdc81726e11)
-
 
 作为练习时长一年半的图形学小学生，看到[noise is beautiful](https://github.com/stegu/noiseisbeautiful) 很是欣喜，花了一天时间草草阅读完。 并产生了想要通过翻译细致学习的想法。
 
@@ -15,6 +13,7 @@
 
 第一个阶段的内容也会分享在我的公众号
 
+![image](https://github.com/user-attachments/assets/39bc1856-22b3-427c-9792-ac0080c5655f)
 
 
 - [介绍与前言](0_Introduction%20and%20Forword.md)
