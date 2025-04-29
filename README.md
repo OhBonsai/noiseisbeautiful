@@ -1,5 +1,8 @@
 # 噪声至美
 
+![image](https://github.com/user-attachments/assets/424fac9c-e77a-46be-81c1-7bdc81726e11)
+
+
 作为练习时长一年半的图形学小学生，看到[noise is beautiful](https://github.com/stegu/noiseisbeautiful) 很是欣喜，花了一天时间草草阅读完。 并产生了想要通过翻译细致学习的想法。
 
 在经过原作者的[许可](https://github.com/stegu/noiseisbeautiful/issues/2)之后, 开始进行翻译与学习。整个过程将分为 4 个阶段
@@ -8,6 +11,11 @@
 2. 在线网站阶段： 这个阶段将使用一些静态网站生成工具， 目标是为了达到更好的体验，例如在网页上直接运行 shader程序，或者嵌入 shadertoy站点的 iframe。并会对移动端做出相应的阅读体验优化
 3. 内容补充阶段： 在阅读的过程中，我希望沿着作者的系统化框架，补充一些我正在学习的内容。
 4. 英文在线阶段： 如果作者有需要，并且认可在线网站的形式。可以将英文也转化为在线阅读
+
+
+第一个阶段的内容也会分享在我的公众号
+
+
 
 - [介绍与前言](0_Introduction%20and%20Forword.md)
 - [背景](3_Background.md)
@@ -33,6 +41,8 @@ With the [author's permission](https://github.com/stegu/noiseisbeautiful/issues/
    While studying, I aim to supplement the author’s systematic framework with additional concepts I am currently learning.  
 4. **English Online Phase**:  
    If the author approves, the final step will be to publish the translated content online in English for broader accessibility.  
+
+The content from the first phase will also be shared on my WeChat official account. You can access it by scanning the QR code provided above via WeChat.
 
 
 ### Completed Sections (Links to Markdown Files):
