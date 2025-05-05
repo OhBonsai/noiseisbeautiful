@@ -13,19 +13,28 @@
 
 第一个阶段的内容也会分享在我的公众号，[点这里直达](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzNzY1MTM0OQ==&action=getalbum&album_id=3965037268665892870&from_itemidx=1&from_msgid=2247485889&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOBVtrC2zYTEWYwiuy6WMPw&nolastread=1#wechat_redirect) github的 公式功能不是很强。
 
-![image](https://github.com/user-attachments/assets/39bc1856-22b3-427c-9792-ac0080c5655f)
+
+<table>
+  <tr>
+    <th style="width: 40%"><img src="https://github.com/user-attachments/assets/39bc1856-22b3-427c-9792-ac0080c5655f" alt="公众号" style="width: 40%; height: auto;" /> </th>
+    <th style="width: 60%">
+       
+<li><a href="./0_Introduction%20and%20Forword.md">介绍与前言</a></li>
+<li><a href="./3_Background.md">背景</a></li>
+<li><a href="./4_Fundamentals.md">基础</a></li>
+<li><a href="./5_Patterns.md">模式</a></li>
+<li><a href="./6_Anti-aliasing.md">反走样</a></li>
+<li><a href="./7_Shapes.md">形状</a></li>
+<li><a href="./8_Randomness.md">随机</a></li>
+<li><a href="./9_Fractals.md">分形</a></li>
+<li><a href="./10_Noise.md">噪声</a></li>
+<li><a href="./11_Noises.md">更多噪声</a></li>
+    </th>
+  </tr>
+</table>
 
 
-- [介绍与前言](0_Introduction%20and%20Forword.md)
-- [背景](3_Background.md)
-- [基础](4_Fundamentals.md)
-- [模式](5_Patterns.md)
-- [反走样](6_Anti-aliasing.md)
-- [形状](7_Shapes.md)
-- [随机](8_Randomness.md)
-- [分形](9_Fractals.md)
-- [噪声](10_Noise.md)
-- [更多噪声](11_Noises.md)
+
 
 
 
