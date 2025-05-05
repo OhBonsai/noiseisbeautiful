@@ -1,7 +1,7 @@
 # 噪声至美
 
 
-作为练习时长一年半的图形学小学生，看到[noise is beautiful](https://github.com/stegu/noiseisbeautiful) 很是欣喜，花了一天时间草草阅读完。 并产生了想要通过翻译细致学习的想法。
+作为练习时长一年半的图形学小学生，看到[noise is beautiful](https://github.com/stegu/noiseisbeautiful) 很是欣喜，花了一天时间草草看了下。 并产生了想要通过翻译细致学习的想法。
 
 在经过原作者的[许可](https://github.com/stegu/noiseisbeautiful/issues/2)之后, 开始进行翻译与学习。整个过程将分为 4 个阶段
 
@@ -11,7 +11,7 @@
 4. 英文在线阶段： 如果作者有需要，并且认可在线网站的形式。可以将英文也转化为在线阅读
 
 
-第一个阶段的内容也会分享在我的公众号
+第一个阶段的内容也会分享在我的公众号，[点这里直达]([url](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzNzY1MTM0OQ==&action=getalbum&album_id=3965037268665892870&from_itemidx=1&from_msgid=2247485889&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOBVtrC2zYTEWYwiuy6WMPw&nolastread=1#wechat_redirect)) github的 公式功能不是很强。
 
 ![image](https://github.com/user-attachments/assets/39bc1856-22b3-427c-9792-ac0080c5655f)
 
