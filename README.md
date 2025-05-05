@@ -16,19 +16,20 @@
 
 <table>
   <tr>
-    <th style="width: 40%"><img src="https://github.com/user-attachments/assets/39bc1856-22b3-427c-9792-ac0080c5655f" alt="公众号" style="width: 40%; height: auto;" /> </th>
-    <th style="width: 60%">
-       
-<li><a href="./0_Introduction%20and%20Forword.md">介绍与前言</a></li>
-<li><a href="./3_Background.md">背景</a></li>
-<li><a href="./4_Fundamentals.md">基础</a></li>
-<li><a href="./5_Patterns.md">模式</a></li>
-<li><a href="./6_Anti-aliasing.md">反走样</a></li>
-<li><a href="./7_Shapes.md">形状</a></li>
-<li><a href="./8_Randomness.md">随机</a></li>
-<li><a href="./9_Fractals.md">分形</a></li>
-<li><a href="./10_Noise.md">噪声</a></li>
-<li><a href="./11_Noises.md">更多噪声</a></li>
+    <th style="width: 200px;">
+      <img src="https://github.com/user-attachments/assets/39bc1856-22b3-427c-9792-ac0080c5655f" style="width: 400px;" alt="公众号" /> 
+    </th>
+    <th style="width: 60%; padding: 16px;" >
+      <li><a href="./0_Introduction%20and%20Forword.md">介绍与前言</a></li>
+      <li><a href="./3_Background.md">背景</a></li>
+      <li><a href="./4_Fundamentals.md">基础</a></li>
+      <li><a href="./5_Patterns.md">模式</a></li>
+      <li><a href="./6_Anti-aliasing.md">反走样</a></li>
+      <li><a href="./7_Shapes.md">形状</a></li>
+      <li><a href="./8_Randomness.md">随机</a></li>
+      <li><a href="./9_Fractals.md">分形</a></li>
+      <li><a href="./10_Noise.md">噪声</a></li>
+      <li><a href="./11_Noises.md">更多噪声</a></li>
     </th>
   </tr>
 </table>
