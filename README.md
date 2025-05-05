@@ -19,6 +19,14 @@
 - [介绍与前言](0_Introduction%20and%20Forword.md)
 - [背景](3_Background.md)
 - [基础](4_Fundamentals.md)
+- [模式](5_Patterns.md)
+- [反走样](6_Anti-aliasing.md)
+- [形状](7_Shapes.md)
+- [随机](8_Randomness.md)
+- [分形](9_Fractals.md)
+- [噪声](10_Noise.md)
+- [更多噪声](11_Noises.md)
+
 
 
 
@@ -47,5 +55,13 @@ The content from the first phase will also be shared on my WeChat official accou
 ### Completed Sections (Links to Markdown Files):
 - [Introduction and Foreword](0_Introduction%20and%20Forword.md)  
 - [Background](3_Background.md)  
-- [Fundamentals](4_Fundamentals.md)  
+- [Fundamentals](4_Fundamentals.md)
+- [Patterns](5_Patterns.md)
+- [Anti-aliasing](6_Anti-aliasing.md)
+- [Shapes](7_Shapes.md)
+- [Randomness](8_Randomness.md)
+- [Fractals](9_Fractals.md)
+- [Noise](10_Noise.md)
+- [Noises](11_Noises.md)
+
 
