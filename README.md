@@ -30,6 +30,13 @@
       <li><a href="./9_Fractals.md">分形</a></li>
       <li><a href="./10_Noise.md">噪声</a></li>
       <li><a href="./11_Noises.md">更多噪声</a></li>
+      <li><a href="./12_Scatteringss.md">散布</a></li>
+      <li><a href="./13_Mash-ups.md">混搭</a></li>
+      <li><a href="./14_Displacement.md">变形</a></li>
+      <li><a href="./15_Scale.md">尺度</a></li>
+      <li><a href="./16_Animation.md">运动</a></li>
+      <li><a href="./17_Wave.md">波</a></li>
+      <li><a href="./18_Hybird.md">混合技法</a></li>
     </th>
   </tr>
 </table>
@@ -73,5 +80,12 @@ The content from the first phase will also be shared on my WeChat official accou
 - [Fractals](9_Fractals.md)
 - [Noise](10_Noise.md)
 - [Noises](11_Noises.md)
+- [Scattering](12_Scatteringss.md)  
+- [Mash-ups](13_Mash-ups.md)  
+- [Displacement](14_Displacement.md)  
+- [Scale](15_Scale.md)  
+- [Animation](16_Animation.md)  
+- [Wave](17_Wave.md)  
+- [Hybrid](18_Hybird.md)
 
 
